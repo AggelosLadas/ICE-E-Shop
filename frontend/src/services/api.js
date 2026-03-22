@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Απευθείας σύνδεση στο backend (το CORS είναι ρυθμισμένο)
-const API_BASE_URL = 'http://172.201.113.207:8080';
+const API_BASE_URL = 'http://localhost:8080';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
