@@ -2,11 +2,10 @@
 
 A full-stack e-commerce application built with Spring Boot and a modern frontend. The project is fully containerized using Docker and designed to be straightforward to spin up locally or on any server.
 
-**Backend** &nbsp;&middot;&nbsp; Aggelos Ladas &nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-1f2328?style=flat-square)](https://aggelosladas.github.io/CV/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square)](https://www.linkedin.com/in/aggelos-ladas-9057b1196/)  
+## Contributors
 
-**Frontend** &nbsp;&middot;&nbsp; Stefanos Souroullas
-
----
+- **Aggelos Ladas** (Backend) - [![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=googlechrome&logoColor=white)](https://www.aggelosladas.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aggelos-ladas-9057b1196/)
+- **Stefanos Souroullas** (Frontend)
 
 ## Screenshots of Demo
 
